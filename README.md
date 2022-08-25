@@ -1,6 +1,6 @@
 ## QspWebServer
 
-this is QSP Game Web Server for multi-user online.
+This is QSP Game Web Server for multi-user online.
 
 
 It is still in the development stage（Alpha）, It is  unstable. It is based on JavaQuestPlayer.
@@ -17,12 +17,13 @@ It is different from quest navigator in that QspWebServer runs on the server sid
 
 ### Environment:
 
-Windows 7(later) or Linux
+Windows 7(later) x64 or Linux x64
 
-Oracle JDK1.8 or OpenJDK JDK 11(later) 
+Oracle JDK1.8 x64 or OpenJDK JDK 11 x64(later)
 
 
 ### Features:
+
 1. Support multi player simultaneous online games.
 
 2. Load libqsp once and support multiplayer games at the same time.
@@ -42,8 +43,8 @@ Oracle JDK1.8 or OpenJDK JDK 11(later)
 
 Thank you for your support
 
-![image text](https://github.com/baijiacms/Java-Quest-Soft-player/raw/main/1.png)
-![image text](https://github.com/baijiacms/Java-Quest-Soft-player/raw/main/2.png)
-![image text](https://github.com/baijiacms/Java-Quest-Soft-player/raw/main/3.png)
-![image text](https://github.com/baijiacms/Java-Quest-Soft-player/raw/main/4.png)
-![image text](https://github.com/baijiacms/Java-Quest-Soft-player/raw/main/5.png)
+![image text](https://github.com/baijiacms/QspWebServer/raw/main/1.png)
+![image text](https://github.com/baijiacms/QspWebServer/raw/main/2.png)
+![image text](https://github.com/baijiacms/QspWebServer/raw/main/3.png)
+![image text](https://github.com/baijiacms/QspWebServer/raw/main/4.png)
+![image text](https://github.com/baijiacms/QspWebServer/raw/main/5.png)
