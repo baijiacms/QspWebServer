@@ -42,7 +42,6 @@ public class QspConstants {
             QSP_DEV_DLL_PATH = ENGINE_RESOURCE_PATH + "/engine/libdev.so";
         } else {
             QSP_DLL_PATH = ENGINE_RESOURCE_PATH + "/engine/libqsp.dll";
-            QSP_DLL_PATH = "E:/cppproject/build-engineX-Desktop_Qt_5_12_6_MinGW_64_bit-Debug/debug/engineX.dll";
 //            QSP_WEB_DLL_PATH= ENGINE_RESOURCE_PATH + "/engine/libqspWeb.dll";
             QSP_DEV_DLL_PATH = ENGINE_RESOURCE_PATH + "/engine/libdev.dll";
         }
